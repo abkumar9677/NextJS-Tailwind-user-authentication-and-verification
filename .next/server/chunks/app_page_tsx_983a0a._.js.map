@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sections": [
+    {"offset": {"line": 5, "column": 0}, "map": {"version":3,"sources":["/turbopack/[project]/app/page.tsx"],"sourcesContent":["\nimport React from \"react\";\n\nexport const metadata = {\n  title: \"Next.js 13 Starter | Coffee\",\n  description:\n    \"A Next.js 13 starter project built without using create-next-app.\",\n};\n\nconst Page = () => {\n  return (\n    <>\n      <h1>Hello, Next.js! This is Coffee.</h1>\n    </>\n  );\n};\n\nexport default Page;\n"],"names":[],"mappings":";;;;;;;AAGO,MAAM,WAAW;IACtB,OAAO;IACP,aACE;AACJ;AAEA,MAAM,OAAO;IACX,qBACE;kBACE,cAAA,mPAAC;sBAAG;;;;;;;AAGV;uCAEe"}},
+    {"offset": {"line": 28, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

@@ -1,0 +1,10 @@
+{
+  "version": 3,
+  "sections": [
+    {"offset": {"line": 5, "column": 0}, "map": {"version":3,"sources":["/turbopack/[project]/app/layout.tsx"],"sourcesContent":["import { Html } from \"next/document\";\nimport React from \"react\";\n\nconst RootLayout = ({ children }) => {\n  return (\n    <Html lang=\"en\">\n      <body>{children}</body>\n    </Html>\n  );\n};\n\nexport default RootLayout;\n"],"names":[],"mappings":";;;;;;;;AAGA,MAAM,aAAa,CAAC,EAAE,QAAQ,EAAE;IAC9B,qBACE;QAAM,MAAK;kBACT,cAAA,mPAAC;sBAAM;;;;;;;;;;;AAGb;uCAEe"}},
+    {"offset": {"line": 30, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
+    {"offset": {"line": 42, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":""}},
+    {"offset": {"line": 47, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
+    {"offset": {"line": 58, "column": 0}, "map": {"version":3,"sources":["/turbopack/[project]/.next-internal/server/app/page/actions.js"],"sourcesContent":["__turbopack_export_value__({\n});"],"names":[],"mappings":"AAAA,2BAA2B,CAC3B"}},
+    {"offset": {"line": 59, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}

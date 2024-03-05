@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sections": [
+    {"offset": {"line": 5, "column": 0}, "map": {"version":3,"sources":["/turbopack/[project]/app/layout.tsx"],"sourcesContent":["\"use client\";\n\nimport React from \"react\";\n\nconst RootLayout = ({ children }) => {\n  return <> {children}</>;\n};\n\nexport default RootLayout;\n"],"names":[],"mappings":";;;;;AAAA;;AAIA,MAAM,aAAa,CAAC,EAAE,QAAQ,EAAE;IAC9B,qBAAO;;YAAE;YAAE;;;AACb;uCAEe"}},
+    {"offset": {"line": 21, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
+}
