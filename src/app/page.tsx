@@ -1,5 +1,4 @@
-
-import React from "react";
+import React, { ReactElement } from "react";
 
 export const metadata = {
   title: "Next.js 13 Starter | Coffee",

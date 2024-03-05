@@ -20,15 +20,21 @@
       {
         "name": "next"
       }
-    ]
+    ],
   },
   "include": [
     "next-env.d.ts",
     ".next/types/**/*.ts",
     "**/*.ts",
-    "**/*.tsx"
+    "**/*.tsx",
+    "./src/**/*.tsx"
   ],
   "exclude": [
     "node_modules"
-  ]
+  ],
+  "paths": {
+    "@components": [
+      "src/components"
+    ],
+  }
 }
