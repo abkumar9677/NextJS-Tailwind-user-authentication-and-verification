@@ -1,8 +1,0 @@
-{
-  "version": 3,
-  "sections": [
-    {"offset": {"line": 5, "column": 0}, "map": {"version":3,"sources":["/turbopack/[project]/app/page.tsx"],"sourcesContent":["\"use client\";\n\nimport React from \"react\";\n\nexport const metadata = {\n  title: \"Next.js 13 Starter | Coffee\",\n  description:\n    \"A Next.js 13 starter project built without using create-next-app.\",\n};\n\nconst Page = () => {\n  return (\n    <>\n      <h1>Hello, Next.js! This is Coffee.</h1>\n    </>\n  );\n};\n\nexport default Page;\n"],"names":[],"mappings":";;;;;;AAAA;;AAIO,MAAM,WAAW;IACtB,OAAO;IACP,aACE;AACJ;AAEA,MAAM,OAAO;IACX,qBACE;kBACE,cAAA,mPAAC;sBAAG;;;;;;;AAGV;uCAEe"}},
-    {"offset": {"line": 29, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}},
-    {"offset": {"line": 37, "column": 0}, "map": {"version":3,"sources":["../../../../../../../src/server/future/route-modules/app-page/vendored/ssr/react-jsx-dev-runtime.ts","/turbopack/[project]/node_modules/next/dist/server/future/route-modules/app-page/vendored/ssr/react-jsx-dev-runtime.js"],"names":["module","exports","require","vendored","ReactJsxDevRuntime"],"mappings":";AAAAA,OAAOC,OAAO,GAAGC,yIAAiCC,QAAQ,CACxD,YACD,CAACC,kBAAkB"}},
-    {"offset": {"line": 39, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"A"}}]
-}
