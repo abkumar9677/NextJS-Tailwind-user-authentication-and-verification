@@ -1,6 +1,5 @@
 import { connect } from "@/dbConfig/dbConfig";
 import User from "@/models/userModel";
-
 import { NextRequest, NextResponse } from "next/server";
 import bcryptjs from "bcryptjs";
 
@@ -31,7 +30,6 @@ export async function POST(request: NextRequest) {
     return NextResponse.json({
       message: "User created successfully",
       success: true,
-      newUser,
     });
   } catch (error: any) {
     return NextResponse.json({ error: error.message });
